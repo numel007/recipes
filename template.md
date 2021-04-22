@@ -3,7 +3,11 @@
 ## **Ingredients**
 | Name | Quantity | Configuration |
 | ---- | -------- | :-----------: |
-|  |  |  |
+|  |  | - |
+|  |  | - |
+|  |  | - |
+|  |  | - |
+|  |  | - |
 <br>
 
 *Yield: ~*
@@ -12,7 +16,11 @@
 ## **Method**
 <ol>
     <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
 </ol>
+<br>
 
 ### *Notes & Comments*
 <ul>
