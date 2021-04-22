@@ -27,7 +27,7 @@
 | Black pepper | 1.5 tsp | - |
 <br>
 
-*Yield: ~1x half sheet pan~*
+*Yield: ~1x half sheet pan*
 <br><br>
 
 ## **Method**
