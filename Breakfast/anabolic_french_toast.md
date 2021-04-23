@@ -1,29 +1,26 @@
-# **Anabolic French Toast**
+# Anabolic French Toast
 
-## **Ingredients**
-| Name | Quantity | Configuration |
-| ---- | -------- | :-----------: |
-| Egg whites | 2 cups | - |
-| Sweetener | 1 packets | - |
-| Vanilla extract | 1/4 tsp | - |
-| Cinnamon | 1 tsp | - |
-| White bread | 1 loaf | - |
-<br>
+## Ingredients
 
-*Yield: ~6 slices*
-<br><br>
+| Name            | Quantity  | Configuration |
+| --------------- | --------- | :-----------: |
+| Egg whites      | 2 cups    |       -       |
+| Sweetener       | 1 packets |       -       |
+| Vanilla extract | 0.25 tsp  |       -       |
+| Cinnamon        | 1 tsp     |       -       |
+| White bread     | 1 loaf    |       -       |
 
-## **Method**
-<ol>
-    <li>Whisk together all <code>ingredients</code>, excluding bread.</li>
-    <li>Heat a small amount of oil in a pan over medium heat.</li>
-    <li>Soak <code>bread</code> in <code>egg mix</code> and place in pan.</li>
-    <li><code>Reduce heat to low</code> and cook until toast releases.</li>
-    <li>Flip and cook until browned.</li>
-    <li>Serve with <code>syrup</code>, <code>yogurt</code>, or <code>smashed berries</code>.</li>
-</ol>
+_Yield: ~6 slices_
 
-### *Notes & Comments*
-<ul>
-    <li>Can be mass produced for quick breakfasts. Increase ingredients by <code>3-5x</code>.</li>
-</ul>
+## Method
+
+1. Whisk together all `ingredients`, excluding bread.
+1. Heat a small amount of oil in a pan over medium heat.
+1. Soak `bread` in `egg mix` and place in pan.
+1. `Reduce heat to low` and cook until toast releases.
+1. Flip and cook until browned.
+1. Serve with `syrup`, `yogurt`, or `smashed berries`.
+
+### _Notes & Comments_
+
+- Can be mass produced for quick breakfasts. Increase ingredients by `3-5x`.

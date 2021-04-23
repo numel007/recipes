@@ -1,31 +1,28 @@
-# **Sausage, Spinach, Cheese, & Egg Muffins**
+# Sausage, Spinach, Cheese, & Egg Muffins
 
-## **Ingredients**
-| Name | Quantity | Configuration |
-| ---- | -------- | :-----------: |
-| Turkey sausage | 3 links | - |
-| Egg whites | 5 | - |
-| Whole eggs | 2 | - |
-| Milk | 1/4 cup | - |
-| Spinach | 1/4 cup | Chopped |
-| Cheddar | 1/4 cup | Shredded |
-| Salt, pepper | To taste | - |
-<br>
+## Ingredients
 
-*Yield: 6 muffins*
-<br><br>
+| Name           | Quantity | Configuration |
+| -------------- | -------- | :-----------: |
+| Turkey sausage | 3 links  |       -       |
+| Egg whites     | 5        |       -       |
+| Whole eggs     | 2        |       -       |
+| Milk           | 0.25 cup |       -       |
+| Spinach        | 0.25 cup |    Chopped    |
+| Cheddar        | 0.25 cup |   Shredded    |
+| Salt, pepper   | To taste |       -       |
 
-## **Method**
-<ol>
-    <li>Preheat oven to 350F.</li>
-    <li>Brown <code>sausage</code> in pan, then remove and cut into 1/2 inch chunks.</li>
-    <li>Separately, whisk together <code>eggs</code>, <code>milk</code>, <code>salt</code>, <code>pepper</code>, and <code>spinach</code>.</li>
-    <li>Grease 6 muffin tins and distribute <code>egg mixture</code> evenly.</li>
-    <li>Distribute <code>sausage</code> and <code>cheese</code> on top.</li>
-    <li>Bake 20 mins or until firm.</li>
-</ol>
+_Yield: 6 muffins_
 
-### *Notes & Comments*
-<ul>
-    <li>Keeps for 4 days, refrigerated.</li>
-</ul>
+## Method
+
+1. Preheat oven to 350F.
+1. Brown `sausage` in pan, then remove and cut into 0.5 inch chunks.
+1. Separately, whisk together `eggs`, `milk`, `salt`, `pepper`, and `spinach`.
+1. Grease 6 muffin tins and distribute `egg mixture` evenly.
+1. Distribute `sausage` and `cheese` on top.
+1. Bake 20 mins or until firm.
+
+### _Notes & Comments_
+
+- Keeps for 4 days, refrigerated.

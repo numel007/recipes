@@ -1,28 +1,24 @@
-# **NAME**
+# NAME
 
-## **Ingredients**
+## Ingredients
+
 | Name | Quantity | Configuration |
 | ---- | -------- | :-----------: |
-|  |  | - |
-|  |  | - |
-|  |  | - |
-|  |  | - |
-|  |  | - |
-<br>
+|      |          |       -       |
+|      |          |       -       |
+|      |          |       -       |
+|      |          |       -       |
+|      |          |       -       |
 
-*Yield: ~*
-<br><br>
+_Yield:_
 
-## **Method**
-<ol>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-</ol>
-<br>
+## Method
 
-### *Notes & Comments*
-<ul>
-    <li></li>
-</ul>
+1.
+1.
+1.
+
+### _Notes & Comments_
+
+-
+-

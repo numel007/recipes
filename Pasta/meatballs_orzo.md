@@ -1,31 +1,28 @@
-# **Meatballs & Orzo**
+# Meatballs & Orzo
 
-## **Ingredients**
-| Name | Quantity | Configuration |
-| ---- | -------- | :-----------: |
-| Meatballs | 1 lb | - |
-| Ground beef | 1 lb | *Optional* |
-| Garlic | 2 cloves | Minced |
-| Bell peppers | 2 cups | Chopped |
-| Tomato sauce | 14 oz | - |
-| Kosher salt | 1 tsp | - |
-| Orzo | 8 oz | - |
-<br>
+## Ingredients
 
-*Yield: ~6 servings*
-<br><br>
+| Name         | Quantity | Configuration |
+| ------------ | -------- | :-----------: |
+| Meatballs    | 1 lb     |       -       |
+| Ground beef  | 1 lb     |  _Optional_   |
+| Garlic       | 2 cloves |    Minced     |
+| Bell peppers | 2 cups   |    Chopped    |
+| Tomato sauce | 14 oz    |       -       |
+| Kosher salt  | 1 tsp    |       -       |
+| Orzo         | 8 oz     |       -       |
 
-## **Method**
-<ol>
-    <li>Brown <code>meatballs</code> in pan and remove.</li>
-    <li>Brown <code>ground beef</code>, then add <code>bell peppers</code>.</li>
-    <li>Add <code>garlic</code> when <code>bell peppers</code> are nearly finished cooking.</li>
-    <li>Add back <code>meatballs</code>, <code>tomato sauce</code>, <code>ground beef</code>, and simmer.</li>
-    <li>Separately, cook <code>orzo</code>.</li>
-    <li>Combine <code>cooked orzo</code> with <code>sauce</code> and serve.</li>
-</ol>
+_Yield: ~6 servings_
 
-### *Notes & Comments*
-<ul>
-    <li>Goes well with mozzarella stuffed meatballs.</li>
-</ul>
+## Method
+
+1. Brown `meatballs` in pan and remove.
+1. Brown `ground beef`, then add `bell peppers`.
+1. Add `garlic` when `bell peppers` are nearly finished cooking.
+1. Add back `meatballs`, `tomato sauce`, `ground beef`, and simmer.
+1. Separately, cook `orzo`.
+1. Combine `cooked orzo` with `sauce` and serve.
+
+### _Notes & Comments_
+
+- Goes well with mozzarella stuffed meatballs.

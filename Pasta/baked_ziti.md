@@ -1,30 +1,27 @@
-# **Baked Ziti**
+# Baked Ziti
 
-## **Ingredients**
-| Name | Quantity | Configuration |
-| ---- | -------- | :-----------: |
-| Tomato sauce | 9 cups | Meat & vegetable if available |
-| Rigatoni | 2 lbs | Al-dente |
-| Mozzarella | 4 cups | - |
-| Chicken | 2 cups | Cooked & diced |
-<br>
+## Ingredients
 
-*Yield: 1 half sheet pan*
-<br><br>
+| Name         | Quantity |         Configuration         |
+| ------------ | -------- | :---------------------------: |
+| Tomato sauce | 9 cups   | Meat & vegetable if available |
+| Rigatoni     | 2 lbs    |           Al-dente            |
+| Mozzarella   | 4 cups   |               -               |
+| Chicken      | 2 cups   |        Cooked & diced         |
 
-## **Method**
-<ol>
-    <li>Preheat oven to <code>350F</code>.</li>
-    <li>Layer <code>1 cup of sauce</code> into bottom of pan.</li>
-    <li>Add a layer of <code>cheese</code>, then <code>rigatoni</code> on top.</li>
-    <li>Add <code>chicken</code>.</li>
-    <li><code>Repeat layering</code>, reserving some cheese to cover top.</li>
-    <li><code>Tent foil</code> over pan so cheese doesn't stick to foil.</li>
-    <li>Bake for <code>30 mins</code>.</li>
-    <li><code>Remove</code> foil and bake additional <code>15 mins</code>.</li>
-</ol>
+_Yield: 1 half sheet pan_
 
-### *Notes & Comments*
-<ul>
-    <li>If making ahead of time, pour 1/2 cup of water into pan and refrigerate. Bake normally later.</li>
-</ul>
+## Method
+
+1. Preheat oven to `350F`.
+1. Layer `1 cup of sauce` into bottom of pan.
+1. Add a layer of `cheese`, then `rigatoni` on top.
+1. Add `chicken`.
+1. `Repeat layering`, reserving some cheese to cover top.
+1. `Tent foil` over pan so cheese doesn't stick to foil.
+1. Bake for `30 mins`.
+1. `Remove` foil and bake additional `15 mins`.
+
+### _Notes & Comments_
+
+- If making ahead of time, pour 0.5 cup of water into pan and refrigerate. Bake normally later.

@@ -1,52 +1,48 @@
-# **Honey Balsamic Chicken**
+# Honey Balsamic Chicken
 
-## **Ingredients**
+## Ingredients
 
 ### Meat & vegetables:
-| Name | Quantity | Configuration |
-| ---- | -------- | :-----------: |
-| Chicken breasts | 2 lbs | - |
-| Potatoes | 1.5 lbs | 1 inch cubes |
-| Cherry tomatoes | 1 pint | - |
-| Red onions | 2x medium | Quartered |
-| Green beans | 2 lbs | Trimmed, 1-2 inch pieces |
-| Carrots | 6x large | Peeled, 1-2 inch sticks |
 
-<br>
+| Name            | Quantity |      Configuration       |
+| --------------- | -------- | :----------------------: |
+| Chicken breasts | 2 lbs    |            -             |
+| Potatoes        | 1.5 lbs  |       1 inch cubes       |
+| Cherry tomatoes | 1 pint   |            -             |
+| Red onions      | 2 medium |        Quartered         |
+| Green beans     | 2 lbs    | Trimmed, 1-2 inch pieces |
+| Carrots         | 6 large  | Peeled, 1-2 inch sticks  |
 
 ### Sauce:
-| Name | Quantity | Configuration |
-| ---- | -------- | :-----------: |
-| Balsamic vinegar | 3/4 cup | - |
-| Honey | 1/2 cup | - |
-| Garlic | 8 cloves | Minced |
-| Thyme | 3 tsp | - |
-| Rosemary | 2 tsp | - |
-| Red chili flakes | 1 tsp | - |
-| Salt | 1 tsp | - |
-| Black pepper | 1.5 tsp | - |
-<br>
 
-*Yield: ~1x half sheet pan~*
-<br><br>
+| Name             | Quantity | Configuration |
+| ---------------- | -------- | :-----------: |
+| Balsamic vinegar | 0.75 cup |       -       |
+| Honey            | 0.5 cup  |       -       |
+| Garlic           | 8 cloves |    Minced     |
+| Thyme            | 3 tsp    |       -       |
+| Rosemary         | 2 tsp    |       -       |
+| Red chili flakes | 1 tsp    |       -       |
+| Salt             | 1 tsp    |       -       |
+| Black pepper     | 1.5 tsp  |       -       |
 
-## **Method**
-<ol>
-    <li>Pat <code>chicken</code> dry, place in a pan, and season with <code>kosher salt</code> (1/2 tsp per lb)</li>
-    <li><code>Brine</code> for 1 hr.</li>
-    <li>Combine sauce ingredients and combine with <code>chicken</code> in a bag.</li>
-    <li>Let <code>chicken</code> marinade for at least <code>1 hr</code>.</li>
-    <li>Meanwhile, preheat oven to <code>425F</code>.</li>
-    <li>Toss <code>potatoes</code> with <code>oil, salt, and pepper</code>. Bake for 25 mins.</li>
-    <li>Meanwhile, blanch <code>green beans</code> for 5 mins and shock.</li>
-    <li>Toss <code>all vegetables</code> with parbaked potatoes, more <code>olive oil, salt, and pepper</code>.</li>
-    <li>Remove <code>chicken</code> from marinade and place on top of vegetables.</li>
-    <li>Pour <code>bag marinade</code> over vegetables.</li>
-    <li>Bake <code>20-45 mins</code> or until chicken is cooked.</li>
-    <li>Rest 10 minutes and serve.</li>
-</ol>
+_Yield: ~1x half sheet pan~_
 
-### *Notes & Comments*
-<ul>
-    <li>Cooking times vary based off chicken thickness. Butterfly if needed.</li>
-</ul>
+## Method
+
+1. Pat `chicken` dry, place in a pan, and season with `kosher salt` (0.5 tsp per lb)
+1. `Brine` for 1 hr.
+1. Combine sauce ingredients and combine with `chicken` in a bag.
+1. Let `chicken` marinade for at least `1 hr`.
+1. Meanwhile, preheat oven to `425F`.
+1. Toss `potatoes` with `oil, salt, and pepper`. Bake for 25 mins.
+1. Meanwhile, blanch `green beans` for 5 mins and shock.
+1. Toss `all vegetables` with parbaked potatoes, more `olive oil, salt, and pepper`.
+1. Remove `chicken` from marinade and place on top of vegetables.
+1. Pour `bag marinade` over vegetables.
+1. Bake `20-45 mins` or until chicken is cooked.
+1. Rest 10 minutes and serve.
+
+### _Notes & Comments_
+
+- Cooking times vary based off chicken thickness. Butterfly if needed.
