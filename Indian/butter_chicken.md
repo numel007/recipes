@@ -1,54 +1,50 @@
-# **Butter Chicken**
+# Butter Chicken
 
-## **Ingredients**
+## Ingredients
 
 ### Chicken
-| Name | Quantity | Configuration |
-| ---- | -------- | :-----------: |
-| Chicken thigh | 1.5 lbs | 1 inch cubes |
-| Full fat yogurt | 1 cup (240g) | - |
-| Garam masala | 1 tbsp | - |
-| Kosher salt | 1 tbsp | - |
-<br>
+
+| Name            | Quantity     | Configuration |
+| --------------- | ------------ | :-----------: |
+| Chicken thigh   | 1. 5 lbs     | 1 inch cubes  |
+| Full fat yogurt | 1 cup (240g) |       -       |
+| Garam masala    | 1 tbsp       |       -       |
+| Kosher salt     | 1 tbsp       |       -       |
 
 ### Curry
-| Name | Quantity | Configuration |
-| ---- | -------- | :-----------: |
-| Yellow onion | 1 | Diced |
-| Ginger | 2 inches | Grated |
-| Crushed tomatoes | 14 oz | - |
-| Water | 2/3 cup | Swirled in tomato can |
-| Heavy cream | 1 cup | - |
-| Butter | 2 tbsp | - |
-| Garlic | 6 cloves | Thinly sliced |
-| Paprika | 2 tsp | - |
-| Cumin | 2 tsp | - |
-| Garam masala | 1 tbsp | - |
-| Turmeric | 1.5 tsp | - |
-| Vegetable oil | 2 tbsp | - |
-<br>
 
-*Yield: ~6 servings*
-<br><br>
+| Name             | Quantity |     Configuration     |
+| ---------------- | -------- | :-------------------: |
+| Yellow onion     | 1        |         Diced         |
+| Ginger           | 2 inches |        Grated         |
+| Crushed tomatoes | 14 oz    |           -           |
+| Water            | 0.6 cup  | Swirled in tomato can |
+| Heavy cream      | 1 cup    |           -           |
+| Butter           | 2 tbsp   |           -           |
+| Garlic           | 6 cloves |     Thinly sliced     |
+| Paprika          | 2 tsp    |           -           |
+| Cumin            | 2 tsp    |           -           |
+| Garam masala     | 1 tbsp   |           -           |
+| Turmeric         | 1. 5 tsp |           -           |
+| Vegetable oil    | 2 tbsp   |           -           |
 
-## **Method**
-<ol>
-    <li>Combine <code>all</code> chicken ingredients and marinade <code>overnight</code>.</li>
-    <li>In pot, heat oil and sear chicken until <code>lightly charred</code>. Undercooked is fine.</li>
-    <li>Remove chicken from pan, then add <code>oil, onion, ginger, and garlic</code>.</li>
-    <li>Season with salt, pepper.</li>
-    <li>Scrape and cook until softened, loosen <code>fond</code> with water.</li>
-    <li>Add all spices <code>except garam masala</code>.</li>
-    <li>Toast until fragrant, then add <code>tomatoes</code> and remaining <code>water</code>.</li>
-    <li>Simmer until thickened, <code>5-8 mins</code>.</li>
-    <li>Add back chicken and cook until... cooked. Around <code>3-5 mins</code>.</li>
-    <li>Add <code>heavy cream</code> and simmer 1 minute.</li>
-    <li>Add <code>butter</code> while stirring constantly.</li>
-    <li>Remove from heat, add <code>garam masala</code>, and let rest <code>5 minutes</code> before serving.</li>
-</ol>
-<br>
+_Yield: ~6 servings_
 
-### *Notes & Comments*
-<ul>
-    <li>Serve with rice or naan. Or both. I won't judge.</li>
-</ul>
+## Method
+
+1. Combine `all` chicken ingredients and marinade `overnight`.
+1. In pot, heat oil and sear chicken until `lightly charred`. Undercooked is fine.
+1. Remove chicken from pan, then add `oil, onion, ginger, and garlic`.
+1. Season with salt, pepper.
+1. Scrape and cook until softened, loosen `fond` with water.
+1. Add all spices `except garam masala`.
+1. Toast until fragrant, then add `tomatoes` and remaining `water`.
+1. Simmer until thickened, `5-8 mins`.
+1. Add back chicken and cook until... cooked. Around `3-5 mins`.
+1. Add `heavy cream` and simmer 1 minute.
+1. Add `butter` while stirring constantly.
+1. Remove from heat, add `garam masala`, and let rest `5 minutes` before serving.
+
+### _Notes & Comments_
+
+- Serve with rice or naan. Or both. I won't judge.

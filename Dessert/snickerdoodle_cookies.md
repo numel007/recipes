@@ -1,68 +1,61 @@
-# **Brown Butter Snickerdoodle Cookies**
+# Brown Butter Snickerdoodle Cookies
 
-## **Ingredients**
+## Ingredients
 
 ### Wet
-| Name | Quantity |
-| ---- | -------- |
-| Unsalted butter | 1 cup |
-| Dark brown sugar | 1 1/4 cups |
-| White sugar | 1/2 cup |
-| Whole egg | 1 |
-| Egg yolk | 1 |
-| Vanilla extract | 1 tsp |
-| Greek yogurt | 1 tbsp |
-<br>
+
+| Name             | Quantity  |
+| ---------------- | --------- |
+| Unsalted butter  | 1 cup     |
+| Dark brown sugar | 1.25 cups |
+| White sugar      | 0.5 cup   |
+| Whole egg        | 1         |
+| Egg yolk         | 1         |
+| Vanilla extract  | 1 tsp     |
+| Greek yogurt     | 1 tbsp    |
 
 ### Dry
-| Name | Quantity |
-| ---- | -------- |
-| Flour | 2 1/2 cups |
-| Baking soda | 1 tsp |
-| Cream of tartar | 2 tsp |
-| Cinnamon | 1/2 tsp |
-| Salt | 1/4 tsp |
-<br>
+
+| Name            | Quantity |
+| --------------- | -------- |
+| Flour           | 2.5 cups |
+| Baking soda     | 1 tsp    |
+| Cream of tartar | 2 tsp    |
+| Cinnamon        | 0.5 tsp  |
+| Salt            | 0.25 tsp |
 
 ### Coating
-| Name | Quantity |
-| ---- | -------- |
-| Sugar | 1/4 cup |
-| Cinnamon | 2 tsp |
-<br>
 
-*Yield: ~24 cookies*
-<br><br>
+| Name     | Quantity |
+| -------- | -------- |
+| Sugar    | 0.25 cup |
+| Cinnamon | 2 tsp    |
 
-## **Method**
-<ol>
-    <li>Melt <code>butter</code> in saucepan over medium heat.</li>
-    <li>Cook until <code>browned</code>, stirring often, then <code>immediately</code> transfer to bowl and cool <code>minimum 10 mins</code>.</li>
-    <li>When cooled, cream together <code>butter</code> and <code>sugars</code>.</li>
-    <li>Add <code>egg, egg yolk, vanilla, and yogurt</code>. Combine until smooth.</li>
-    <li>Separately, mix together all <code>dry ingredients</code>.</li>
-    <li>Add <code>dry to wet</code> ingredients slowly, mix until barely combined.</li>
-    <li>Portion dough into <code>45g</code> balls. Toss in coating mixture.</li>
-    <li>Refrigerate balls for 3 hours or overnight.</li>
-    <li>Preheat oven to <code>350F</code>.</li>
-    <li>Bake dough balls according to <code>table in notes</code>.</li>
-    <li>Cool cookies on pan for <code>5 minutes</code>, then complete cooling on a rack.</li>
-</ol>
-<br>
+_Yield: ~24 cookies_
 
-### *Notes & Comments*
+## Method
+
+1. Melt `butter` in saucepan over medium heat.
+1. Cook until `browned`, stirring often, then `immediately` transfer to bowl and cool `minimum 10 mins`.
+1. When cooled, cream together `butter` and `sugars`.
+1. Add `egg, egg yolk, vanilla, and yogurt`. Combine until smooth.
+1. Separately, mix together all `dry ingredients`.
+1. Add `dry to wet` ingredients slowly, mix until barely combined.
+1. Portion dough into `45g` balls. Toss in coating mixture.
+1. Refrigerate balls for 3 hours or overnight.
+1. Preheat oven to `350F`.
+1. Bake dough balls according to `table in notes`.
+1. Cool cookies on pan for `5 minutes`, then complete cooling on a rack.
+
+### _Notes & Comments_
+
 | Dough refrigeration time | Bake time |
 | ------------------------ | --------- |
-| Not refrigerated | 8-12 mins |
-| 3 hours - overnight | 14 mins |
-| Frozen | 16 mins |
+| Not refrigerated         | 8-12 mins |
+| 3 hours - overnight      | 14 mins   |
+| Frozen                   | 16 mins   |
 
-<ul>
-    <li>Dough can be frozen instead of refrigerated.
-        <ol>
-            <li><code>Portion</code> dough into balls.</li>
-            <li><code>Flash freeze</code>, uncovered, for 30 mins.</li>
-            <li><code>Transfer</code> balls to freezer bag and finish freezing.</li>
-        </ol>
-    </li>
-</ul>
+- Dough can be frozen instead of refrigerated.
+  1.  `Portion` dough into balls.
+  1.  `Flash freeze`, uncovered, for 30 mins.
+  1.  `Transfer` balls to freezer bag and finish freezing.

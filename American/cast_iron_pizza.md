@@ -1,51 +1,47 @@
-# **Cast Iron Pizza**
+# Cast Iron Pizza
 
-## **Ingredients**
+## Ingredients
 
 ### Pizza base
-| Name | Quantity | Configuration |
-| ---- | -------- | :-----------: |
-| Pizza dough | 1 | - |
-| Pizza sauce | 1/2 cup | Red/white |
-| Mozzarella | 1 1/2 cups | Shredded |
-| Olive oil | 2 tbsp | - |
-<br>
+
+| Name        | Quantity | Configuration |
+| ----------- | -------- | :-----------: |
+| Pizza dough | 1        |       -       |
+| Pizza sauce | 0.5 cup  |   Red/white   |
+| Mozzarella  | 1.5 cups |   Shredded    |
+| Olive oil   | 2 tbsp   |       -       |
 
 ### Topping combinations
-| Name | Sauce | Ingredients |
-| ---- | ----- | ----------- |
-| Boring | Red |Pepperoni, mushrooms, green bell pepper |
-| Club | White | Chicken, bacon, red onion, tomatoes |
-| Margherita | Red | Mozzarella, fresh basil |
-| Green Margherita | Pesto | Mozzarella, sun-dried tomatoes |
-| BBQ Chicken | BBQ | Red onion, chicken, bacon, jalapenos |
-| Carnivore | Red | Pepperoni, chicken, sausage, ham, bacon |
-| Vegetarian | Red | Bell peppers, onions, olives, mushrooms, tomatoes, spinach |
-| Hawaiian | Red | Pineapple, ham |
 
+| Name             | Sauce | Ingredients                                                |
+| ---------------- | ----- | ---------------------------------------------------------- |
+| Boring           | Red   | Pepperoni, mushrooms, green bell pepper                    |
+| Club             | White | Chicken, bacon, red onion, tomatoes                        |
+| Margherita       | Red   | Mozzarella, fresh basil                                    |
+| Green Margherita | Pesto | Mozzarella, sun-dried tomatoes                             |
+| BBQ Chicken      | BBQ   | Red onion, chicken, bacon, jalapenos                       |
+| Carnivore        | Red   | Pepperoni, chicken, sausage, ham, bacon                    |
+| Vegetarian       | Red   | Bell peppers, onions, olives, mushrooms, tomatoes, spinach |
+| Hawaiian         | Red   | Pineapple, ham                                             |
 
+_Yield: ~1 pizza_
 
-*Yield: ~*
-<br><br>
+## Method
 
-## **Method**
-<ol>
-    <li>Begin <code>3 hours</code> before planning to eat.</li>
-    <li>Spread olive oil in cast iron pan and <code>coat</code> dough ball.</li>
-    <li>Gently stretch dough to fit pan. Cover and let rest <code>15 mins</code>.</li>
-    <li>Stretch dough to fit pan if it has shrunk back. Cover and let rise <code>2 hours</code>.</li>
-    <li>Preheat oven to <code>450F</code>.</li>
-    <li>Sprinkle <code>1 cup cheese</code> over dough, going <code>edge to edge</code>.</li>
-    <li>Spoon <code>sauce</code> over cheese, then sprinkle <code>more cheese</code> over sauce.</li>
-    <li>Add <code>toppings</code>, a little <code>more cheese</code>, and a splash of <code>oil</code> over the top.</li>
-    <li>Bake <code>18-20 mins</code> or until well browned.</li>
-    <li>Remove from oven and check bottom crust. If not dark enough, cook on stove for a few minutes.</li>
-    <li>Remove pizza from pan and let rest on cooling rack <code>5 mins</code>.</li>
-</ol>
+1. Begin `3 hours` before planning to eat.
+1. Spread olive oil in cast iron pan and `coat` dough ball.
+1. Gently stretch dough to fit pan. Cover and let rest `15 mins`.
+1. Stretch dough to fit pan if it has shrunk back. Cover and let rise `2 hours`.
+1. Preheat oven to `450F`.
+1. Sprinkle `1 cup cheese` over dough, going `edge to edge`.
+1. Spoon `sauce` over cheese, then sprinkle `more cheese` over sauce.
+1. Add `toppings`, a little `more cheese`, and a splash of `oil` over the top.
+1. Bake `18-20 mins` or until well browned.
+1. Remove from oven and check bottom crust. If not dark enough, cook on stove for a few minutes.
+1. Remove pizza from pan and let rest on cooling rack `5 mins`.
 
-### *Notes & Comments*
-<ul>
-    <li>Don't overdo the cheese after the base layer. The pizza may overflow. Stick to <code>< 1.5 cups</code> total.</li>
-    <li>Keep proteins near or at the top layer to encourage crisping.</li>
-    <li>Pineapple belongs on pizza.</li>
-</ul>
+### _Notes & Comments_
+
+- Don't overdo the cheese after the base layer. The pizza may overflow. Stick to `< 1.5 cups` total.
+- Keep proteins near or at the top layer to encourage crisping.
+- Pineapple belongs on pizza.

@@ -1,30 +1,27 @@
-# **Pizza Dough**
+# Pizza Dough
 
-## **Ingredients**
-| Name | Quantity | Configuration |
-| ---- | -------- | :-----------: |
-| Flour | 2 cups (240g)  | - |
-| Salt | 3/4 tsp | - |
-| Yeast | 1/2 tsp | - |
-| Water | 3/4 cup (170g) | Warm |
-| Olive oil | 1 tbsp | - |
-<br>
+## Ingredients
 
-*Yield: ~1 pizza*
-<br><br>
+| Name      | Quantity        | Configuration |
+| --------- | --------------- | :-----------: |
+| Flour     | 2 cups (240g)   |       -       |
+| Salt      | 0.75 tsp        |       -       |
+| Yeast     | 0.5 tsp         |       -       |
+| Water     | 0.75 cup (170g) |     Warm      |
+| Olive oil | 1 tbsp          |       -       |
 
-## **Method**
-<ol>
-    <li>Mix all <code>ingredients</code> until a rough ball forms.</li>
-    <li>Cover and let stand <code>5 mins</code>.</li>
-    <li>With a <code>wet hand</code>, stretch and fold dough on all 4 sides, then <code>flip dough over</code>.</li>
-    <li>Repeat previous step until <code>4</code> folds have been completed.</li>
-    <li>Let dough rest, covered, for <code>40 mins</code>.</li>
-    <li>Transfer to fridge for <code>12-72 hours</code>.</li>
-</ol>
+_Yield: ~1 pizza_
 
-### *Notes & Comments*
-<ul>
-    <li>This dough works well for <code>cast iron pizzas</code>.</li>
-    <li>Use <code>flavored olive oils</code> for extra fanciness. I like to use a roasted garlic oil.</li>
-</ul>
+## Method
+
+1. Mix all `ingredients` until a rough ball forms.
+1. Cover and let stand `5 mins`.
+1. With a `wet hand`, stretch and fold dough on all 4 sides, then `flip dough over`.
+1. Repeat previous step until `4` folds have been completed.
+1. Let dough rest, covered, for `40 mins`.
+1. Transfer to fridge for `12-72 hours`.
+
+### _Notes & Comments_
+
+- This dough works well for `cast iron pizzas`.
+- Use `flavored olive oils` for extra fanciness. I like to use a roasted garlic oil.
