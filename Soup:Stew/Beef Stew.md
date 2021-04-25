@@ -1,4 +1,4 @@
-# Beef Strew
+# Beef Stew
 
 ## Ingredients
 
