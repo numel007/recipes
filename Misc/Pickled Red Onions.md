@@ -9,7 +9,7 @@
 | Sugar               | 1 tsp    |                 -                  |
 | Salt                | 0.5 tsp  |                 -                  |
 
-_Yield: ~_
+_Yield: ~1.5 cups_
 
 ## Method
 
