@@ -10,7 +10,7 @@
 | Water     | 0.75 cup (170g) |     Warm      |
 | Olive oil | 1 tbsp          |       -       |
 
-_Yield: ~1 pizza_
+_Yield: ~1x 12 inch pizza_
 
 ## Method
 
@@ -23,5 +23,6 @@ _Yield: ~1 pizza_
 
 ### _Notes & Comments_
 
+- 2.5x this recipe for a half sheet pan sized pizza.
 - This dough works well for `cast iron pizzas`.
 - Use `flavored olive oils` for extra fanciness. I like to use a roasted garlic oil.
