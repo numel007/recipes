@@ -8,7 +8,7 @@
 | Ground beef       | 1 lb     |           -           |
 | White rice        | 1 cup    |        Cooked         |
 | Onion             | 1        |        Minced         |
-| Tomatoes          | 14.5 oz  |         Diced         |
+| Tomato sauce      | 15 oz    |           -           |
 | Garlic            | 4 cloves |        Minced         |
 | Colby jack cheese | 1 cup    |       Shredded        |
 | Italian seasoning | 1 tsp    |           -           |
