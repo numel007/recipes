@@ -2,24 +2,20 @@
 
 ## Ingredients
 
-| Name                 | Quantity       | Configuration |
-| -------------------- | -------------- | :-----------: |
-| Sweet onion          | 1              |     Diced     |
-| Dill pickles         | 2              |     Diced     |
-| Mayonnaise           | 0.75 cups/175g |       -       |
-| Ketchup              | 0.5 cups/120g  |       -       |
-| Chives               | 1 tbsp         | Thinly sliced |
-| Garlic               | 2 cloves       |    Grated     |
-| Worcestershire sauce | 1 tbsp         |       -       |
-| Salt/Pepper          | To taste       |       -       |
+| Name          | Quantity       | Configuration |
+| ------------- | -------------- | :-----------: |
+| Relish        | 4 tsp          |       -       |
+| Mayonnaise    | 5 tbsp + 1 tsp |       -       |
+| Ketchup       | 4 tbsp         |       -       |
+| White vinegar | 1 tsp          |       -       |
+| Sugar         | 1 tsp          |       -       |
 
-_Yield: ~2 cups_
+_Yield: ~1.5 cups_
 
 ## Method
 
-1. Caramelize `sweet onion`.
-1. Combine caramelized onion with all other ingredients.
+1. Combine all ingredients well.
 
 ## Credit
 
-- Joshua Weissman: [Animal Style Fries](https://www.joshuaweissman.com/post/in-n-out-animal-style-fries-but-better)
+- Kenji Lopez-Alt: [In N Out Burger Clone](https://www.youtube.com/watch?v=sBEmFxdpQGI)
