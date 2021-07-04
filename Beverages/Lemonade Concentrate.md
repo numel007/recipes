@@ -21,4 +21,3 @@ _Yield: ~12 servings_
 ### _Notes & Comments_
 
 - Credit: [Robyn Stone @ Add a Pinch](https://addapinch.com/fresh-lemonade-recipe/)
--
