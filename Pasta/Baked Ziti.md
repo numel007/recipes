@@ -1,4 +1,4 @@
-# Baked Ziti
+# Baked Rigatoni
 
 ## Ingredients
 
@@ -24,4 +24,4 @@ _Yield: 1 half sheet pan_
 
 ### _Notes & Comments_
 
-- If making ahead of time, pour 0.5 cup of water into pan and refrigerate. Bake normally later.
+-   If making ahead of time, pour 0.5 cup of water into pan and refrigerate. Bake normally later.
