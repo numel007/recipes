@@ -1,27 +1,36 @@
-# Baked Rigatoni
+# Baked Ziti
 
 ## Ingredients
 
-| Name         | Quantity |         Configuration         |
-| ------------ | -------- | :---------------------------: |
-| Tomato sauce | 9 cups   | Meat & vegetable if available |
-| Rigatoni     | 2 lbs    |           Al-dente            |
-| Mozzarella   | 4 cups   |               -               |
-| Chicken      | 2 cups   |        Cooked & diced         |
+| Name             | Quantity | Configuration |
+| ---------------- | -------- | :-----------: |
+| Italian sausage  | 1 lb     |       -       |
+| Ground beef      | 1 lb     |       -       |
+| Sweet onion      | 1        |     Diced     |
+| Crushed tomatoes | 36 oz    |       -       |
+| Garlic           | 4 cloves |    Minced     |
+| Mozzarella       | 14 oz    |       -       |
+| Paremsan         | 4 oz     |       -       |
+| Ricotta          | 15 oz    |       -       |
+| Ziti             | 1 lb     |       -       |
 
-_Yield: 1 half sheet pan_
+_Yield: ~1 9x13 inch pan_
 
 ## Method
 
-1. Preheat oven to `350F`.
-1. Layer `1 cup of sauce` into bottom of pan.
-1. Add a layer of `cheese`, then `rigatoni` on top.
-1. Add `chicken`.
-1. `Repeat layering`, reserving some cheese to cover top.
-1. `Tent foil` over pan so cheese doesn't stick to foil.
-1. Bake for `30 mins`.
-1. `Remove` foil and bake additional `15 mins`.
+1. Preheat oven to 375F. Grease a 9x13 pan.
+1. In a large pot, heat `olive oil`, then add `meats` and sear `2-3 mins`.
+1. Flip `meats` and sear again . Break up into bits.
+1. Cook `meats` on medium until fat renders and `meat` is slightly browned.
+1. Remove `meats` and add in `sweet onion`. Cook with `salt & pepper` until almost done, then add `garlic` and briefly fry.
+1. Add back `meats`, then add `crushed tomatoes`. Simmer `5 mins`. Add `0.75 tbsp ` sugar to reduce tomato acidity if needed.
+1. Meanwhile, cook `ziti` in salted water until slightly under al-dente.
+1. Combine `cooked ziti` with `sauce.` Separately, combine all cheese.
+1. In greased pan, add half of the `pasta and sauce`. Layer `ricotta` and `cheese mix` on top.
+1. Top with remaining ingredients.
+1. Bake uncovered `35 mins` or until cheese is browned.
+1. Cool at least 15 mins.
 
 ### _Notes & Comments_
 
--   If making ahead of time, pour 0.5 cup of water into pan and refrigerate. Bake normally later.
+-   Source: [Baked Ziti - Joshua Weissman](https://www.youtube.com/watch?v=lYrI6jbU6yU)
