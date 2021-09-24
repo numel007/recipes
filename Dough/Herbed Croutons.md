@@ -18,7 +18,7 @@ _Yield: ~14 oz croutons_
 ## Method
 
 1. Combine all ingredients.
-1. Spread evenly on lined pan, do not overlap.
+1. Spread evenly on parchment paper lined pan, do not overlap. Do not use foil.
 1. Bake at `350F` for 15 mins.
 1. Flip croutons and bake until golden brown.
 1. Loosen from pan, then allow too cool completely.
