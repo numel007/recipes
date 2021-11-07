@@ -13,7 +13,7 @@
 | Pepper                 | 0.25 tsp |       -       |
 | Tabasco                | To taste |       -       |
 
-_Yield: ~_
+_Yield: ~3 cups_
 
 ## Method
 
@@ -23,9 +23,6 @@ _Yield: ~_
 1. Add `ground chiles, cumin, lime juice, salt, and pepper`.
 1. Blend until smooth. Add water to thin if needed.
 1. Add `Tabasco` to taste.
-1.
-1.
-1.
 
 ### _Notes & Comments_
 
