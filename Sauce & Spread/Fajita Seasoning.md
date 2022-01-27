@@ -20,6 +20,6 @@ _Yield: ~7.5 tbsp_
 1. Combine.
 1. That's it. End of recipe.
 
-### _Notes & Comments_
+## Notes
 
 - Put this stuff on chicken, vegetables, chili, quesadillas, etc.

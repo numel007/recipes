@@ -32,6 +32,6 @@ _Yield: ~8 servings_
 1. Add shallots to potatoes, toss, and bake until browned, about `10 mins`.
 1. Toss potatoes with `garlic`, `olive oil`, `parsley`, and `lemon zest`. Seaosn with salt and pepper.
 
-### _Notes & Comments_
+## Notes
 
 - Total time averages nearly 1.5 hours. Start early!

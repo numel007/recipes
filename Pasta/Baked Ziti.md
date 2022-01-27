@@ -31,6 +31,6 @@ _Yield: ~1 9x13 inch pan_
 1. Bake uncovered `35 mins` or until cheese is browned.
 1. Cool at least 15 mins.
 
-### _Notes & Comments_
+## Notes
 
 -   Source: [Baked Ziti - Joshua Weissman](https://www.youtube.com/watch?v=lYrI6jbU6yU)

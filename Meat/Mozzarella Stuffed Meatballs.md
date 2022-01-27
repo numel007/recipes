@@ -26,6 +26,6 @@ _Yield: ~20 meatballs_
 1. Stuff with `cheese`.
 1. Bake 18-22 mins.
 
-### _Notes & Comments_
+## Notes
 
 - Ensure that cheese is well secured inside balls to prevent leaking.

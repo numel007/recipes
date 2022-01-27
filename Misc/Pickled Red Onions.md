@@ -19,6 +19,6 @@ _Yield: ~1.5 cups_
 1. Remove from heat and pour into heat proof bowl along with `red onions`.
 1. Stir and let sit at least `60 mins`. Then drain.
 
-### _Notes & Comments_
+## Notes
 
 - Top tacos with this to add a sweet and spicy bite.

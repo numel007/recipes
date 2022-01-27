@@ -40,7 +40,7 @@ _Yield: ~1x 9x13 pan_
 1. Add `sausage` mix to `eggs`, then pour over `potato crust`.
 1. Bake until set, 45-50 mins.
 
-### _Notes & Comments_
+## Notes
 
 - Can be made ahead. Process as follows:
   1.  Make crust, wrap and refrigerate.

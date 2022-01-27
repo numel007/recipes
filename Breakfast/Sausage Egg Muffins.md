@@ -23,6 +23,6 @@ _Yield: 6 muffins_
 1. Distribute `sausage` and `cheese` on top.
 1. Bake 20 mins or until firm.
 
-### _Notes & Comments_
+## Notes
 
 - Keeps for 4 days, refrigerated.

@@ -19,6 +19,6 @@ _Yield: ~1 wrap_
 1. Add `ham` and `cheese`, then fold up tortilla and `flip` so seam is down.
 1. Remove and serve.
 
-### _Notes & Comments_
+## Notes
 
 - Ensure the tortilla is the same size as your pan or you'll have a bad time.

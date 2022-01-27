@@ -22,6 +22,6 @@ _Yield: 1 half sheet pan_
 1. Bake for `30 mins`.
 1. `Remove` foil and bake additional `15 mins`.
 
-### _Notes & Comments_
+## Notes
 
 -   If making ahead of time, pour 0.5 cup of water into pan and refrigerate. Bake normally later.

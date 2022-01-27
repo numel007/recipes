@@ -17,7 +17,7 @@ _Yield: 4-5 onions worth_
 1. To thicken onions further, slightly `crack slow cooker lid` and cook additional `3-5 hrs on low`.
 1. Drain and store `onions`, use remaining liquid for `onion broth` where needed.
 
-### _Notes & Comments_
+## Notes
 
 - Caramelized onions can be frozen for 3 months or refrigerated for 1 week.
 -

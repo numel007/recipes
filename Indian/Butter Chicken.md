@@ -45,6 +45,6 @@ _Yield: ~6 servings_
 1. Add `butter` while stirring constantly.
 1. Remove from heat, add `garam masala`, and let rest `5 minutes` before serving.
 
-### _Notes & Comments_
+## Notes
 
 - Serve with rice or naan. Or both. I won't judge.

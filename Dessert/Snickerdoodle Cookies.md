@@ -47,7 +47,7 @@ _Yield: ~24 cookies_
 1. Bake dough balls according to `table in notes`.
 1. Cool cookies on pan for `5 minutes`, then complete cooling on a rack.
 
-### _Notes & Comments_
+## Notes
 
 | Dough refrigeration time | Bake time |
 | ------------------------ | --------- |

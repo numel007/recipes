@@ -22,7 +22,7 @@ _Yield: ~4 servings_
 
 1. Combine all ingredients and serve after chilling.
 
-### _Notes & Comments_
+## Notes
 
 - Keeps for 2 days.
 - Add other vegetables and herbs if desired, like avocado and basil.

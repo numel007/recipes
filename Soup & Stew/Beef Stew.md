@@ -39,6 +39,6 @@ _Yield: A lot._
 1. Braise additional `1 hour`.
 1. Season with `salt and pepper`.
 
-### _Notes & Comments_
+## Notes
 
 - Best if made 1 day prior to serving.

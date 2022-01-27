@@ -18,6 +18,6 @@ _Yield: ~1 pineapple_
 1. Grill `pineapple` until tender, about `2-3 mins` per side.
 1. Remove and let cool slightly before serving.
 
-### _Notes & Comments_
+## Notes
 
 - Let pineapple sit in sugar mixture for a day to let some juice drain. Grill pineapple as normal and make a reduction with the remaining liquid. Serve reduction over pineapple.

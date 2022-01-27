@@ -39,6 +39,6 @@ _Yield: ~3 servings_
 1. Let simmer for `10-15 mins`, or until pasta is cooked.
 1. Add `cream cheese` if desired.
 
-### _Notes & Comments_
+## Notes
 
 - It's a good idea to double this recipe, since pasta is often sold in 1 lb packages.

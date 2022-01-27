@@ -45,6 +45,6 @@ _Yield: ~6 servings_
 1. Toast `rice` with `spices` and `butter`, then cook in rice cooker with `chicken broth`.
 1. Combine `white sauce ingredients` and serve with chicken and rice.
 
-### _Notes & Comments_
+## Notes
 
 - Don't trust the chicken broth proportions. Use your finger to determine the right amount of liquid.

@@ -30,6 +30,6 @@ _Yield: ~_
 1. Pour into a greased loaf pan and bake `55-65 mins`.
 1. Let cool in pan for `10 mins`, then remove and cool additional `15 mins`.
 
-### _Notes & Comments_
+## Notes
 
 - Choosing to omit `peanut butter` will not overtly impact the final product.

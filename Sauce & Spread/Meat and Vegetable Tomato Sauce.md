@@ -29,6 +29,6 @@ _Yield: ~5 cups_
 1. Add `salt and pepper`, cook 5 mins.
 1. Add `tomatoes` and simmer `3 hours`.
 
-### _Notes & Comments_
+## Notes
 
 - This sauce works well with the baked ziti recipe. Double this recipe to fit requirements.

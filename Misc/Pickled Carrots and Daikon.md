@@ -23,7 +23,7 @@ _Yield: ~4 lbs_
 1. Pour mixture over canned vegetables. Seal and refrigerate.
 1. Let sit at least overnight before using.
 
-### _Notes & Comments_
+## Notes
 
 - Lasts 4-6 weeks
 - Try with onion, cucumbers, red pepper, and garlic.

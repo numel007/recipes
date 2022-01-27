@@ -27,7 +27,7 @@ _Yield: ~1 loaf_
 1. Cover loaf with foil during final `10 mins`.
 1. Let cool `1 hour` in pan, then remove.
 
-### _Notes & Comments_
+## Notes
 
 - Pairs well with a lemon icing.
   1. Whisk together 2 cups `powdered sugar` and 4 tbsp `lemon juice`.

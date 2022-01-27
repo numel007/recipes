@@ -29,7 +29,7 @@ _Yield: ~ 3lbs tri-tip_
 1. Dry off `tri-tip` with paper towels and sear `15-30 secs` per side, then flip and repeat over and over until well browned.
 1. Meat does not need to rest before serving.
 
-### _Notes & Comments_
+## Notes
 
 - Baste with butter for more flavor.
 - To serve after cooling, reheat remaining pan juices to sizzling and pour over tri-tip.

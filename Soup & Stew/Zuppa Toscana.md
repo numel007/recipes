@@ -28,7 +28,7 @@ _Yield: ~6 servings_
 1. Turn off slow cooker and add `heavy cream` before serving.
 1. Season to taste with more `salt and pepper`.
 
-### _Notes & Comments_
+## Notes
 
 - Do not add `heavy cream` while the soup is overly hot. It will curdle.
 - Leaving skins on `potatoes` is nice, but cooking time will dramatically increase.

@@ -18,7 +18,7 @@ _Yield: ~4 cups_
 1. Combine all ingredients.
 1. Chill and serve.
 
-### _Notes & Comments_
+## Notes
 
 - Need more flavor? Add `salt`. More zing? Add `lime juice`.
 - Leave `jalapeno seeds` in for more heat.

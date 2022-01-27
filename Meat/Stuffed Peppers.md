@@ -30,6 +30,6 @@ _Yield: ~6 peppers_
 1. Place `stuffed peppers` in a foil lined tray.
 1. Cover and bake `20 mins`, then uncover and bake an additional `15-20 mins` or until cheese is browned.
 
-### _Notes & Comments_
+## Notes
 
 - If desired, top with additional cheese before second half of baking.

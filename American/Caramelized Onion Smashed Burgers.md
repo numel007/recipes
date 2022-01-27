@@ -28,7 +28,7 @@ _Yield: ~4 burgers_
 1. While `patties` rest, toast `brioche buns` in pan.
 1. Spread `garlic spread` on top and buttom buns. Assemble in order of bottom bun -> patty -> onions -> lettuce -> top bun.
 
-### _Notes & Comments_
+## Notes
 
 - Add additional toppings as needed, such as pickles, mustard, and tomatoes.
 - Serve with salad to offset the large amount of grease this burger contains.

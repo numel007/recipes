@@ -25,7 +25,7 @@ _Yield: ~1 cup_
 1. Remove from heat and stir in `parmesan`.
 1. Use immediately or cover and chill.
 
-### _Notes & Comments_
+## Notes
 
 - Sauce has a habit of becoming obnoxiously thick. Cut with extra `milk` if needed.
 - Goes great on cast iron pizzas! Add some `chicken`, `bacon`, `red onion`, and `tomatoes` for a classic club pizza.

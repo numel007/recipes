@@ -26,6 +26,6 @@ _Yield: ~4 servings_
 1. Fry at `high heat` and remove rice from pan.
 1. Cook `egg`, then add to rice along with `chicken`.
 
-### _Notes & Comments_
+## Notes
 
 - Use MSG if available. No it's not a cheat code. Yes, every Chinese restaurant uses it. Or some form of powdered chicken stock.

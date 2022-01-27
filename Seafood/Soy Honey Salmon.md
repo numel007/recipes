@@ -29,7 +29,7 @@ _Yield: ~2 servings_
 1. Transfer to broiler and broil until slightly `charred`.
 1. Season with additional `salt and pepper`, and serve.
 
-### _Notes & Comments_
+## Notes
 
 - Pairs well with steamed spinach and lemon wedges.
 - Use additional water in sauce if it caramelizes too quickly.

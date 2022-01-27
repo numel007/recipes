@@ -24,6 +24,6 @@ _Yield: ~6 servings_
 1. Add `drained pasta`, season with `salt and pepper`.
 1. Add `pasta water` to thicken further if needed.
 
-### _Notes & Comments_
+## Notes
 
 - Add spinach for more color.

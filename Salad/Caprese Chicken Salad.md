@@ -25,6 +25,6 @@ _Yield: ~1 salad_
 1. Sprinkle mozzarella with `salt and pepper`.
 1. Serve.
 
-### _Notes & Comments_
+## Notes
 
 -   Basil vinaigrette recipe [here](https://github.com/numel007/recipes/blob/master/Sauce%20%26%20Spread/Creamy%20Basil%20Vin.md).
