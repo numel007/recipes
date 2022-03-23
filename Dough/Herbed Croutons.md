@@ -23,6 +23,6 @@ _Yield: ~14 oz croutons_
 1. Flip croutons and bake until golden brown.
 1. Loosen from pan, then allow too cool completely.
 
-### _Notes & Comments_
+## Notes
 
 - Keeps for 2 weeks in an airtight container.

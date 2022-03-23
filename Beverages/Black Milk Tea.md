@@ -20,6 +20,6 @@ _Yield: ~6 servings_
 1. Chill to make a concentrate.
 1. If serving, cool mixture to `40°C`, then shake with ice.
 
-### _Notes & Comments_
+## Notes
 
 - To serve from concentrate, mix `250 ml concentrate` with `100 ml cold water`.

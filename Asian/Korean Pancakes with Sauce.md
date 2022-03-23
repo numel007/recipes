@@ -35,6 +35,6 @@ _Yield: 1 large pancake_
 1. Flip and cook additional `3 mins`.
 1. Remove pancake from pan, cool, and serve with sauce.
 
-### _Notes & Comments_
+## Notes
 
 - Vegetables may include green onion, zucchini, leeks, onions, sweet potato, mushrooms, carrots, etc.

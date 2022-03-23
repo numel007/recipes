@@ -29,6 +29,6 @@ _Yield: ~5 servings_
 1. Add `pasta water` to mixture and cook until `penne` is al-dente.
 1. Stir in `parmesan` and serve.
 
-### _Notes & Comments_
+## Notes
 
 - Do not blend tomatoes. Crushing them by hand yields a more complex and pleasant texture.

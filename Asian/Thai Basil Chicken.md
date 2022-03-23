@@ -34,6 +34,6 @@ _Yield: ~4-6 servings_
 1. Remove pan from heat and stir in basil.
 1. Serve.
 
-### _Notes & Comments_
+## Notes
 
 - Regular basil is not a valid substitue for thai basil, which is sweeter.

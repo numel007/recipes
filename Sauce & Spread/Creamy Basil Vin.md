@@ -25,7 +25,7 @@ _Yield: ~2 cups_
 1. Taste. Add more honey or vinegar if needed.
 1. Chill and serve.
 
-### _Notes & Comments_
+## Notes
 
 -   Dresses a caprese well.
 -   Store maximum 2 weeks.

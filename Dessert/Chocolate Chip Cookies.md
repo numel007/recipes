@@ -28,7 +28,7 @@ _Yield: ~30 cookies_
 1. Refrigerate balls 1 hour or overnight.
 1. Bake `13-14 mins`.
 
-### _Notes & Comments_
+## Notes
 
 - Work quickly as overly soft butter will create flat cookies.
 - Check your `baking soda`. Old baking soda may cause flat cookies.

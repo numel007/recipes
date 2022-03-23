@@ -20,6 +20,6 @@ _Yield: ~2 cups_
 1. `Simmer` sauce until darkened, `15-20 mins`.
 1. Chill and serve.
 
-### _Notes & Comments_
+## Notes
 
 - Pairs decently well with tacos al pastor or blackened salmon.

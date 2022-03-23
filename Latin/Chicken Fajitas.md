@@ -23,6 +23,6 @@ _Yield: ~15-20 tacos_
 1. Meanwhile, saute `bell peppers, onion, and garlic`.
 1. Serve peppers and chicken together.
 
-### _Notes & Comments_
+## Notes
 
 - Try with chipotle aioli.

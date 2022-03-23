@@ -38,7 +38,7 @@ _Yield: ~6 servings_
 1. Place `meatballs` in simmering sauce and cook on low for `10 mins` covered.
 1. Turn `meatballs` and cook additional `10 mins` uncovered, or until cooked through.
 
-### _Notes & Comments_
+## Notes
 
 - Substitute eggs for meatballs for a more authentic experience. Make ditches in sauce and crack raw eggs into ditches.
 - Best served with some form of pita bread.

@@ -18,6 +18,6 @@ _Yield: ~12 servings_
 1. Let cool in refrigerator.
 1. To serve, combine equal parts concentrate and water over ice.
 
-### _Notes & Comments_
+## Notes
 
 - Credit: [Robyn Stone @ Add a Pinch](https://addapinch.com/fresh-lemonade-recipe/)

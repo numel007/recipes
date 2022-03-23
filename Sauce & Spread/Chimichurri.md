@@ -22,7 +22,7 @@ _Yield: ~2 cups_
 1. Let stand `10 mins`.
 1. Add `herbs` and slowly whisk in `oil`.
 
-### _Notes & Comments_
+## Notes
 
 - Hand cut all herbs. Never use a food processor.
 - Chimichurri can be used as a sauce for meats. Process as follows:

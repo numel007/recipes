@@ -41,6 +41,6 @@ _Yield: ~1x half sheet pan_
 1. Pour `sauce` over vegetables and combine well.
 1. Bake until `potatoes` are soft, 25-45 mins. Mix halfway through.
 
-### _Notes & Comments_
+## Notes
 
 - Use a high walled sheet pan. A tray will not contain all the sauce.

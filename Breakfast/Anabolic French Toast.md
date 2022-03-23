@@ -21,6 +21,6 @@ _Yield: ~6 slices_
 1. Flip and cook until browned.
 1. Serve with `syrup`, `yogurt`, or `smashed berries`.
 
-### _Notes & Comments_
+## Notes
 
 - Can be mass produced for quick breakfasts. Increase ingredients by `3-5x`.

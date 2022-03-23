@@ -17,6 +17,6 @@ _Yield: ~1 large smoothie_
 1. Add `juice` to blender first, then all other ingredients.
 1. Blend.
 
-### _Notes & Comments_
+## Notes
 
 -   Definitely not ripped off from Jamba Juice.

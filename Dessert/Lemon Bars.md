@@ -37,7 +37,7 @@ _Yield: 1x 9x13 pan_
 1. Pour filling mixture over cooled crust and bake `22-26 mins` or until center is set.
 1. Cool `1-2 hours`, cover, and refrigerate `2 hours` prior to portioning and serving.
 
-### _Notes & Comments_
+## Notes
 
 - The lemon bars will naturally be white on top. Cover with powdered sugar if desired.
 - The crust is essentially shortbread. I recommend using 2 forks or a pastry cutter to cut butter into the flour.

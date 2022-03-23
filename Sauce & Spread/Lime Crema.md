@@ -16,6 +16,6 @@ _Yield: ~1 cup_
 
 1. Combine all `ingredients` and chill for 1 hour before serving.
 
-### _Notes & Comments_
+## Notes
 
 - Excellent as a dip for quesadillas.

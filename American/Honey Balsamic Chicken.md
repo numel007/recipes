@@ -43,6 +43,6 @@ _Yield: ~1x half sheet pan~_
 1. Bake `20-45 mins` or until chicken is cooked.
 1. Rest 10 minutes and serve.
 
-### _Notes & Comments_
+## Notes
 
 - Cooking times vary based off chicken thickness. Butterfly if needed.

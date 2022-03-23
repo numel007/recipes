@@ -20,6 +20,6 @@ _Yield: 4 wraps_
 1. Roll up `tortilla` and sear in pan to seal shut.
 1. Cut in half and serve.
 
-### _Notes & Comments_
+## Notes
 
 - Additional toppings: Mozzarella, tomatoes, herbs.

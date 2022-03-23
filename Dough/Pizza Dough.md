@@ -21,7 +21,7 @@ _Yield: ~1x 12 inch pizza_
 1. Let dough rest, covered, for `40 mins`.
 1. Transfer to fridge for `12-72 hours`.
 
-### _Notes & Comments_
+## Notes
 
 - 2.5x this recipe for a half sheet pan sized pizza.
 - This dough works well for `cast iron pizzas`.

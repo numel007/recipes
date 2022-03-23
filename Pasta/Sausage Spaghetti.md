@@ -29,7 +29,7 @@ _Yield: ~6 servings_
 1. Cover and let sit for `1 min`.
 1. Serve with grated `Parmagiano` on top.
 
-### _Notes & Comments_
+## Notes
 
 - Whole sausages are recommended for this recipe.
 - Any pasta can be used, but longer pastas are preferred for _aesthetics_.

@@ -19,6 +19,6 @@ _Yield: ~2 cups_
 1. Cook `corn` according to directions or roast at `375F` for `30-40 mins`, stirring halfway through.
 1. Combine `all ingredients` and season to taste with `salt`.
 
-### _Notes & Comments_
+## Notes
 
 - Recommended with burrito bowls or sweeter tacos.

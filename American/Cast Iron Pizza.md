@@ -40,7 +40,7 @@ _Yield: ~1 pizza_
 1. Remove from oven and check bottom crust. If not dark enough, cook on stove for a few minutes.
 1. Remove pizza from pan and let rest on cooling rack `5 mins`.
 
-### _Notes & Comments_
+## Notes
 
 - Don't overdo the cheese after the base layer. The pizza may overflow. Stick to `< 1.5 cups` total.
 - Keep proteins near or at the top layer to encourage crisping.

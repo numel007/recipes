@@ -30,7 +30,7 @@ _Yield: ~6 servings_
 1. `Flip` pork occasionally throughout grilling.
 1. When cooked, hold skewers upright and slice vertically.
 
-### _Notes & Comments_
+## Notes
 
 - Serve in tacos with some form of pineapple salsa/relish.
 - `Grill` the pineapple for extra pizzaz!

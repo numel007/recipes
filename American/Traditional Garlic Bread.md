@@ -20,7 +20,7 @@ _Yield: ~1 loaf_
 1. Cut `ciabatta` lengthwise and spread each half with `butter mixture`.
 1. Bake 10-15 mins or until browned to liking.
 
-### _Notes & Comments_
+## Notes
 
 - Increase `parmigiano` to 1 cup to make `cheese bread`.
 - Sprinkle with `kosher salt` after baking if needed.

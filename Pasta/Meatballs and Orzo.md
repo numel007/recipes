@@ -23,6 +23,6 @@ _Yield: ~6 servings_
 1. Separately, cook `orzo`.
 1. Combine `cooked orzo` with `sauce` and serve.
 
-### _Notes & Comments_
+## Notes
 
 - Goes well with mozzarella stuffed meatballs.

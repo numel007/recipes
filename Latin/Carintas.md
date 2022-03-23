@@ -25,6 +25,6 @@ _Yield: 1 half sheet pan_
 1. Pour `1 cup` of slow cooker liquid over meat.
 1. `Broil` until browned.
 
-### _Notes & Comments_
+## Notes
 
 - Be careful not to overdo the broiling. Alternatively, skip broiling and `fry` in small batches on stove.

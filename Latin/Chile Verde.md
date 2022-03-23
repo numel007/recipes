@@ -30,6 +30,6 @@ _Yield: ~8 servings_
 1. Simmer `2-3 hrs` uncovered until pork is tender, or `7 hrs on high` in slow cooker with lid cracked.
 1. Adjust seasoning to taste.
 
-### _Notes & Comments_
+## Notes
 
 - Do NOT underbroil the `tomatillos`. The ending sauce will be very tart.

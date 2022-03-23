@@ -24,7 +24,7 @@ _Yield: ~6 servings_
 1. Add as much `pasta water` as needed to thicken sauce.
 1. Season to taste with `salt`, `pepper`, and `parsley`.
 
-### _Notes & Comments_
+## Notes
 
 - This is a simple recipe. Don't overthink it.
 - Try using `garlic olive oil` if you have it.

@@ -43,7 +43,7 @@ _Yield: ~6-8 sandwiches_
 1. Cook until peppers are softened.
 1. Serve on toasted buns.
 
-### _Notes & Comments_
+## Notes
 
 -   Add water during simmering if the sauce has reduced too much.
 -   Simmer covered to create a more saucy dish.

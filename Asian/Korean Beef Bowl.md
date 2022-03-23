@@ -25,7 +25,7 @@ _Yield: ~4 servings_
 1. Off heat, add `half the green onions`. Stir in.
 1. Serve with remaining green onions as garnish.
 
-### _Notes & Comments_
+## Notes
 
 - Serves up well in various carb vessels, like rice, tortillas, etc.
 - Try adding shredded carrots, red bell peppers, and broccoli for more veggies.
